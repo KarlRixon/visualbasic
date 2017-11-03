@@ -1,0 +1,11 @@
+C:\Users\24346\Documents\VisualBasic\密码登录\密码登录\bin\Debug\密码登录.exe.config
+C:\Users\24346\Documents\VisualBasic\密码登录\密码登录\bin\Debug\密码登录.exe
+C:\Users\24346\Documents\VisualBasic\密码登录\密码登录\bin\Debug\密码登录.pdb
+C:\Users\24346\Documents\VisualBasic\密码登录\密码登录\bin\Debug\密码登录.xml
+C:\Users\24346\Documents\VisualBasic\密码登录\密码登录\obj\Debug\密码登录.vbprojResolveAssemblyReference.cache
+C:\Users\24346\Documents\VisualBasic\密码登录\密码登录\obj\Debug\密码登录.Form1.resources
+C:\Users\24346\Documents\VisualBasic\密码登录\密码登录\obj\Debug\密码登录.Resources.resources
+C:\Users\24346\Documents\VisualBasic\密码登录\密码登录\obj\Debug\密码登录.vbproj.GenerateResource.Cache
+C:\Users\24346\Documents\VisualBasic\密码登录\密码登录\obj\Debug\密码登录.exe
+C:\Users\24346\Documents\VisualBasic\密码登录\密码登录\obj\Debug\密码登录.xml
+C:\Users\24346\Documents\VisualBasic\密码登录\密码登录\obj\Debug\密码登录.pdb

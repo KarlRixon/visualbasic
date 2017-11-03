@@ -1,0 +1,11 @@
+C:\Users\24346\Documents\VisualBasic\记事本\记事本\bin\Debug\记事本.exe.config
+C:\Users\24346\Documents\VisualBasic\记事本\记事本\bin\Debug\记事本.exe
+C:\Users\24346\Documents\VisualBasic\记事本\记事本\bin\Debug\记事本.pdb
+C:\Users\24346\Documents\VisualBasic\记事本\记事本\bin\Debug\记事本.xml
+C:\Users\24346\Documents\VisualBasic\记事本\记事本\obj\Debug\记事本.Form1.resources
+C:\Users\24346\Documents\VisualBasic\记事本\记事本\obj\Debug\记事本.Resources.resources
+C:\Users\24346\Documents\VisualBasic\记事本\记事本\obj\Debug\记事本.vbproj.GenerateResource.Cache
+C:\Users\24346\Documents\VisualBasic\记事本\记事本\obj\Debug\记事本.exe
+C:\Users\24346\Documents\VisualBasic\记事本\记事本\obj\Debug\记事本.xml
+C:\Users\24346\Documents\VisualBasic\记事本\记事本\obj\Debug\记事本.pdb
+C:\Users\24346\Documents\VisualBasic\记事本\记事本\obj\Debug\记事本.vbprojResolveAssemblyReference.cache
